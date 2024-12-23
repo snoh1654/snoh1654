@@ -1,5 +1,5 @@
 # 👋 About Me:
-📚 Studying Computer Science at the University of British Columbia<br>🏢 Developing software with UBC BEST to enable hand exercises for individuals with Multiple Sclerosis<br>💻 I am currently learning about NoSQL and DevOps<br>🚀 Aiming to implement creative solutions that can positively impact the world<br>⚡Fun Fact: I’ve made over $2,000 in profit from buying and selling TCG cards online
+📚 Studying Computer Science at the University of British Columbia<br>🏢 Developing software with UBC BEST to enable hand exercises for individuals with Multiple Sclerosis<br>💻 Currently learning about NoSQL and DevOps<br>🚀 Aiming to implement creative solutions that can positively impact the world<br>⚡Fun Fact: I’ve made over $2,000 in profit from buying and selling TCG cards online
 
 
 # 💻 Tech Stack:
